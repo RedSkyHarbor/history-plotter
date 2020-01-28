@@ -1,8 +1,9 @@
 import argparse
+import shutil
 import os
 
 def main(args):
-    print(args)
+    shutil.copyfile(args.history_file, os.path.join(args.hist_file, 'history'))
 
 def mkdir(path):
     try:
