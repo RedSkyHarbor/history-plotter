@@ -1,0 +1,739 @@
+: 1577387287:0;brew cask install iterm2
+: 1577388273:0;zsh
+: 1577388308:0;pwd
+: 1577388311:0;cd ~
+: 1577388315:0;pwd
+: 1577389383:0;ls
+: 1577389385:0;ls -a
+: 1577389831:0;vim .zshrc
+: 1577390370:0;zsh
+: 1577390417:0;$SHELL
+: 1577390419:0;SHELL
+: 1577390451:0;echo $SHELL
+: 1577391856:0;echo $ZSH_VERSION
+: 1577391974:0;echo $0
+: 1577392712:0;ls -la
+: 1577392717:0;pwd
+: 1577392719:0;ls -a
+: 1577393122:0;cd .oh-my-zsh
+: 1577393124:0;ls
+: 1577393138:0;cd themes
+: 1577393139:0;ls
+: 1577393238:0;ls  ~/.oh-my-zsh/themes
+: 1577393354:0;cd ~
+: 1577393361:0;true
+: 1577393365:0;false
+: 1577393378:0;ls ~/.oh-my-zsh/themes
+: 1577393497:0;pwd
+: 1577393507:0;vim .zshrc
+: 1577393538:0;vim .bashrc
+: 1577393670:0;vim .zshrc
+: 1577393807:0;echo $ZSH
+: 1577393848:0;vim .zshrc
+: 1577394393:0;ls -a
+: 1577394403:0;cd .oh-my-zsh
+: 1577394405:0;ls
+: 1577394407:0;ls -a
+: 1577394455:0;ls /custom
+: 1577394456:0;ls
+: 1577394458:0;cd custom
+: 1577394460:0;ls -a
+: 1577394461:0;ls
+: 1577394473:0;cat example.zsh
+: 1577394561:0;pqd
+: 1577394564:0;pwd
+: 1577394654:0;ls
+: 1577394656:0;cd ..
+: 1577394656:0;ls
+: 1577394661:0;cd themes
+: 1577394663:0;ls 
+: 1577395263:0;cd ~
+: 1577395264:0;ls
+: 1577395266:0;ls -a
+: 1577396089:0;brew
+: 1577396108:0;fg
+: 1577396113:0;brew install node
+: 1577396444:0;node -v
+: 1577396449:0;npm -v
+: 1577474489:0;asd
+: 1577477394:0;which zsh
+: 1577477402:0;man tail
+: 1577477415:0;tail etc/passwd
+: 1577477628:0;zsh --version
+: 1577477831:0;iterm2
+: 1577477833:0;iterm
+: 1577477943:0;zsh
+: 1577477946:0;iterm2
+: 1577478240:0;pwd
+: 1577478243:0;ls -a
+: 1577478320:0;echo $SHELL
+: 1577478323:0;zsh --version
+: 1577478479:0;shitory
+: 1577478483:0;history
+: 1577478496:0;cat .zsh_history
+: 1577478714:0;history 
+: 1577478722:0;history | grep which
+: 1577480014:0;$0
+: 1577480277:0;which 
+: 1577480281:0;echo $SHELL
+: 1577480385:0;which 
+: 1577480398:0;which zsh
+: 1577483089:0;man fc
+: 1577483107:0;fc man
+: 1577483111:0;man fc
+: 1577483113:0;ls
+: 1577483116:0;ls -a
+: 1577483179:0;fc
+: 1577483185:0;ls -a
+: 1577483236:0;fc -l
+: 1577483244:0;history
+: 1577483251:0;fc -l
+: 1577484189:0;ls ~/.oh-my-zsh
+: 1577484197:0;ls ~/.oh-my-zsh/plugins
+: 1577484202:0;ls ~/.oh-my-zsh/themes
+: 1577484235:0;history
+: 1577484750:0;ls ~/.oh-my-zsh/custom
+: 1577484925:0;pwd
+: 1577484931:0;ls -a
+: 1577484936:0;cd .oh-my-zsh
+: 1577484937:0;ls
+: 1577484939:0;cd custom
+: 1577484989:0;cd tools
+: 1577484999:0;ls
+: 1577485007:0;cat example.zsh
+: 1577485027:0;ls
+: 1577485031:0;cd themes
+: 1577485032:0;ls
+: 1577485035:0;cat example.zsh-theme
+: 1577485232:0;pwd
+: 1577485368:0;cd ../..
+: 1577485369:0;ls
+: 1577485374:0;cd custom
+: 1577485375:0;;s
+: 1577485376:0;ls
+: 1577485381:0;cd plugins
+: 1577485384:0;ls
+: 1577485388:0;cat example
+: 1577485391:0;cd example
+: 1577485392:0;ls
+: 1577485394:0;cat example.plugin.zsh
+: 1577571159:0;$ZSH_CUSTOM
+: 1577571177:0;echo $ZSH_CUSTOM
+: 1577576210:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+: 1577576229:0;ls
+: 1577576232:0;cd ..
+: 1577576234:0;ls
+: 1577576237:0;cd ..
+: 1577576240:0;ls
+: 1577576244:0;cd .oh-my-zsh
+: 1577576247:0;cd ..
+: 1577576258:0;vim .zshrc
+: 1577576690:0;
+: 1577576977:0;echo hello
+: 1577576983:0;ls
+: 1577576991:0;pwd
+: 1577576995:0;cd Applications
+: 1577576999:0;cd ..
+: 1577577002:0;cd .oh-my-zsh
+: 1577577004:0;ls
+: 1577577032:0;echo "Hello, new terminal\
+\
+:\
+"
+: 1577577044:0;echo "hello new terminal\
+:\
+"
+: 1577577050:0;echo 'hello'
+: 1577577057:0;echo 'hello new terminal'
+: 1577577066:0;echo 'Hello, new terminal!'
+: 1577648237:0;ls
+: 1577648246:0;cd ..
+: 1577649797:0;echo $HOME
+: 1577649892:0;locale
+: 1577650177:0;ls
+: 1577650180:0;ls -a
+: 1577650187:0;vim .zshrc
+: 1577650432:0;autoload -U zsh-newuser-install; zsh-newuser-install -f
+: 1577650547:0;ls -a
+: 1577651490:0;p10k configure
+: 1577651600:0;echo "hello\
+"
+: 1577651604:0;echo "hello"
+: 1577651610:0;echo hi
+: 1577651887:0;ls
+: 1577651897:0;p10k configure
+: 1577652114:0;asd
+: 1577652123:0;g10k configure
+: 1577652128:0;p10k configure
+: 1577652350:0;ls
+: 1577652361:0;g10k configure
+: 1577652365:0;p10k configure
+: 1577652388:0;ls
+: 1577652391:0;cd Documents
+: 1577652394:0;cd ..
+: 1577652396:0;cd .oh-my-zsh
+: 1577652412:0;echo hello
+: 1577652416:0;asd
+: 1577653023:0;ls --tree
+: 1577653047:0;ls | lolcat
+: 1577653052:0;neofetch
+: 1577653503:0;cd ~
+: 1577653506:0;ls -a
+: 1577653509:0;ls -al
+: 1577654248:0;ls
+: 1577654266:0;brew nvim
+: 1577654279:0;brew neovim
+: 1577654303:0;brew install nvim
+: 1577654334:0;vim .zshrc
+: 1577654394:0;nvim .zshrc
+: 1577654583:0;ls -a
+: 1577654909:0;ls
+: 1577654914:0;cd Dev/
+: 1577654914:0;ls
+: 1577654934:0;mkdir iterm2_themes
+: 1577654936:0;cd iterm2_themes
+: 1577654946:0;git clone https://github.com/dracula/iterm.git
+: 1577655050:0;ls
+: 1577655052:0;ls -a
+: 1577655079:0;nvim .zshrc
+: 1577655674:0;ls -a
+: 1577655715:0;brew install zsh-syntax-highlighting
+: 1577655901:0;echo "hello world"
+: 1577655958:0;ls
+: 1577655960:0;ls -a
+: 1577655962:0;ls -al
+: 1577656061:0;ls -A
+: 1577656077:0;ls -1
+: 1577656081:0;ls -a1
+: 1577656084:0;ls -a
+: 1577656091:0;ls -al1
+: 1577656229:0;ls --size
+: 1577656255:0;ls -x
+: 1577656261:0;man ls
+: 1577657217:0;open .zshrc
+: 1577657326:0;ls -A
+: 1577657467:0;echo 'hello'
+: 1577657539:0;echo "hello"
+: 1577657548:0;hello how are you
+: 1577657845:0;lf
+: 1577828079:0;echo $0
+: 1577828421:0;echo $SHELL
+: 1577834525:0;brew install neofetch
+: 1577834684:0;brew install lolcat
+: 1577834720:0;neofetch | lolcat
+: 1577841554:0;whoami
+: 1577841567:0;ls -a
+: 1577841578:0;nvim .bashrc
+: 1577841632:0;neofetch | lolcat
+: 1577841791:0;hostname
+: 1577841863:0;systemd
+: 1577841880:0;hostname Steez
+: 1577841885:0;sudo hostname Steez
+: 1577841895:0;neofetch | lolcat
+: 1577841965:0;cat /etc
+: 1577841969:0;cat /etc/passwd
+: 1577843126:0;whoami
+: 1577843151:0;sudo usermod -l jessebreuer-penello jesse
+: 1577843159:0;usermod
+: 1577843338:0;whoami
+: 1577843383:0;neofetch
+: 1577843390:0;hostname
+: 1577843497:0;whoami
+: 1577843500:0;hostname
+: 1577843505:0;neofetch
+: 1577899478:0;npm start
+: 1577900743:0;neofetch | lolcat
+: 1577901089:0;nvim .zshrc
+: 1577902574:0;git add .
+: 1577902588:0;git commit -m "Padding between sections in blog post added"
+: 1577902600:0;git add .
+: 1577902606:0;git commit -m "Updated year in footer"
+: 1577902609:0;git push
+: 1577922295:0;git add .
+: 1577922308:0;git commit -m "bugfix to link in blog page"
+: 1577925735:0;git add .
+: 1577925746:0;git commit -m "removed unused imports"
+: 1577926862:0;git add .
+: 1577926887:0;git commit -m "commented out unused imports"
+: 1577926910:0;git add .
+: 1577926992:0;git commit -m "commented out unused variable"
+: 1577927057:0;git add .
+: 1577927076:0;git commit -m "added alts to images to suppress warning"
+: 1577932151:0;git add .
+: 1577932162:0;git commit -m "removed an icon long ago but left the href"
+: 1577932190:0;git add .
+: 1577932199:0;git commit -m "removed unused important"
+: 1577932396:0;git add .
+: 1577932419:0;git commit -m "removed redundant alt property on img"
+: 1577932448:0;git add .
+: 1577932468:0;git commit -m "suppress warning on alt redundancy and alt missing"
+: 1577932498:0;git push
+: 1578024833:0;git add .
+: 1578024841:0;git commit -m "About page redesign":
+: 1578080322:0;git add .
+: 1578080331:0;git commit -m "Fixed spelling mistake:\
+"
+: 1578080567:0;git add .
+: 1578080586:0;git commit -m "Extra spacing at bottom of about page beneath contact button"
+: 1578080590:0;git push
+: 1578167180:0;npm start
+: 1578171250:0;git commit -m "Added smaller placholder image"
+: 1578171274:0;git git commit -m "Finished layout for writtenby component"
+: 1578171313:0;git commit -m "Finished layout for writtenby component"
+: 1578171354:0;git commit -m "Edited about page, minor tweaks to text"
+: 1578171416:0;git commit -m "added writtenby component to bottom of each blogpost"
+: 1578174672:0;git push
+: 1578178126:0;git checkout -b rework/blogpage
+: 1578245963:0;git commit -m "Blog posts are now left aligned (default alignment)"
+: 1578246026:0;git commit -m "Blog homepage now keeps a list of all unique tags for filtering"
+: 1578267015:0;git status
+: 1578267021:0;git push
+: 1578267037:0;git push --set-upstream origin rework/blogpage
+: 1578267045:0;git checkout master
+: 1578267056:0;git add . 
+: 1578267063:0;git commit -m "Added images for about page"
+: 1578267424:0;git add .
+: 1578267443:0;git commit -m "Added images to about page, removed clutter from statement at top"
+: 1578267445:0;git push
+: 1578291296:0;nvim ~/.local/share/font
+: 1578291301:0;nvim ~/.local/share/fonts
+: 1578293336:0;h
+: 1578295627:0;git add .
+: 1578295641:0;git commit -m "removued unused import"
+: 1578295761:0;git branch
+: 1578295770:0;git checkout rework/blogpage
+: 1578295790:0;npm start
+: 1578353965:0;git add .
+: 1578353974:0;git commit -m "Changed li to button"
+: 1578353977:0;git push
+: 1578353986:0;git checkout master
+: 1578353997:0;git status
+: 1578354012:0;git push
+: 1578354170:0;git checkout -b "feature/emailform"
+: 1578432948:0;git add .
+: 1578432957:0;git commit -m "finished new about page layout"
+: 1578434186:0;git push
+: 1578434198:0;git push --set-upstream origin feature/emailform
+: 1578434234:0;git checkout master
+: 1578434237:0;git pull
+: 1578434287:0;git branch
+: 1578434299:0;git checkout rework/blogpage
+: 1578434306:0;git pull origin master
+: 1578434338:0;git status
+: 1578434343:0;git push 
+: 1578603440:0;git add .
+: 1578603460:0;git commit -m "added styling to filter buttons and collapses in correct order on smaller screens"
+: 1578604399:0;git add 
+: 1578604402:0;git add .
+: 1578604431:0;git commit -m "add margin to left of screen size for PC"
+: 1578610070:0;git commit -m "removed ugly focus on navigation anchors"
+: 1578610102:0;git commit -m "Failed attempt at removing focus css on this element, but leaving it anyway cause it SHOULD work but doesnt?"
+: 1578610113:0;git add .
+: 1578610141:0;git commit -m "added styling to filter buttons that change on aria-pressed, added toggle method to handle this"
+: 1578610300:0;git add .
+: 1578610314:0;git commit -m "brand name shouldnt show highlighter icon"
+: 1578610773:0;git add .
+: 1578610785:0;git commit -m "All filters are now initially false"
+: 1578612247:0;npx react-codemod rename-unsafe-lifecycles
+: 1578612275:0;git add .
+: 1578612282:0;git commit -m "ideas"
+: 1578612292:0;npx react-codemod rename-unsafe-lifecycles
+: 1578694584:0;npm start
+: 1578790207:0;git add 
+: 1578790209:0;git add .
+: 1578790225:0;git commit -m "filters feature is being put on hold"
+: 1578790227:0;git push
+: 1578790534:0;git checkout master
+: 1578790536:0;git pull
+: 1578791224:0;cd Dev
+: 1578791226:0;ls
+: 1578791234:0;mkdir css_face
+: 1578791237:0;cd css_face
+: 1578791238:0;git init
+: 1578791245:0;nvim face.css
+: 1578791897:0;cd Dev/css_face
+: 1578791905:0;nvim face.html
+: 1578801791:0;cd Dev/css_face
+: 1578801792:0;ls
+: 1578801795:0;git add .
+: 1578801804:0;git commit -m "init commit - blank canvas"
+: 1578859290:0;git add .
+: 1578859307:0;git commit -m "removed image from written by cause I have no image to go there"
+: 1578861133:0;git add .
+: 1578861141:0;git commit -m "fixed invalid css value"
+: 1578862516:0;git add .
+: 1578862526:0;git commit -m "removed unused import"
+: 1578865300:0;npm start
+: 1578865708:0;git add .
+: 1578865721:0;git commit -m "removed old icon which i think was the favicon"
+: 1578871274:0;git add .
+: 1578871291:0;git commit -m "changed favicon to match navbar logo"
+: 1578871294:0;git push
+: 1578892150:0;git status
+: 1578892222:0;git add .
+: 1578892234:0;git commit -m "refactored coding steez -> code steez"
+: 1578892235:0;git push
+: 1578892677:0;cd Dev
+: 1578892686:0;mkdir blackout-poetry
+: 1578892689:0;cd blackout-poetry
+: 1578892691:0;git init
+: 1578949115:0;git add .
+: 1578949126:0;git commit -m "shortened ABOUT statement"
+: 1578949129:0;git push
+: 1578949441:0;git add .
+: 1578949448:0;git commit -m "More changes to about page"
+: 1578949450:0;git push
+: 1578951358:0;cd .
+: 1578951359:0;ls
+: 1578951362:0;cd ..
+: 1578951363:0;ls
+: 1578951382:0;gcloud init
+: 1578951509:0;neofetch
+: 1578951647:0;cd ~
+: 1578951650:0;cd ..
+: 1578951651:0;ls
+: 1578951664:0;cd jessebreuer-penello
+: 1578951665:0;ls
+: 1578951670:0;ls -a
+: 1578951675:0;ls -a1
+: 1578951703:0;ls -la1
+: 1578952151:0;cd google-cloud-sdk/
+: 1578952205:0;ls
+: 1578952242:0;cd ..
+: 1578952251:0;./google-cloud-sdk/install.sh
+: 1578952469:0;pwd
+: 1578952471:0;;s
+: 1578952471:0;ls
+: 1578952488:0;./google-cloud-sdk/bin/gcloud init
+: 1578952888:0;ls
+: 1578952895:0;cd Dev/jesseb
+: 1578952896:0;ls
+: 1578952910:0;gcloud app deploy
+: 1578954270:0;docker --version
+: 1578954512:0;ls
+: 1578954516:0;nvim app.yaml
+: 1578954708:0;ls
+: 1578954712:0;gcloud init
+: 1578955654:0;cd Dev/jesseb
+: 1578955658:0;nvim app.yaml
+: 1578955674:0;git status
+: 1578955675:0;git add .
+: 1578955690:0;git commit -m "Initializing app.yaml for deployment to gcp"
+: 1578955716:0;nvim app.yaml
+: 1578955767:0;gcloud app deploy
+: 1578963019:0;gcloud app broswe
+: 1578963028:0;gcloud app browse
+: 1578964197:0;git status
+: 1578964209:0;git add .
+: 1578964218:0;git commit -m "Fixed spelling mistake"
+: 1578965709:0;git add .
+: 1578965735:0;git commit -m "Fixing insecure socket error - https://stackoverflow.com/questions/59359280/react-app-error-failed-to-construct-websocket-an-insecure-websocket-connecti"
+: 1578965816:0;git push
+: 1578966477:0;gcloud app browse
+: 1578966489:0;gcloud app deploy
+: 1578967094:0;gcloud app browse
+: 1578967572:0;git log
+: 1578968167:0;gcloud app browse
+: 1578968269:0;ls
+: 1578968272:0;nvim app.yaml
+: 1578968478:0;git status
+: 1578968482:0;git add .
+: 1578968503:0;git commit -m "Giving extra space to vm, might be causing issues with handling traffic"
+: 1578968508:0;git push
+: 1578968532:0;gcloud app deploy
+: 1578969408:0;npm run build
+: 1578969772:0;ls
+: 1578969775:0;cd build
+: 1578969782:0;gcloud app build
+: 1578969789:0;gcloud app deploy
+: 1578970167:0;npm i serve
+: 1578970215:0;npm start
+: 1578970483:0;npm uninstall serve
+: 1578970786:0;gcloud app deploy
+: 1578970927:0;cd ..
+: 1578971110:0;npm i
+: 1578971228:0;npm audit fix
+: 1578971284:0;git add .
+: 1578971308:0;git commit -m "downgraded react-scripts from ^3.3.0 to 3.2.0"
+: 1578971314:0;git push
+: 1578971321:0;ls
+: 1578971326:0;gcloud app deploy
+: 1578980529:0;npm start
+: 1578980580:0;git add .
+: 1578980598:0;git commit -m "removed cogs"
+: 1578980601:0;git push
+: 1578981991:0;ls'\
+'
+: 1578981994:0;cd ~
+: 1578981995:0;ls
+: 1578981996:0;cd Desktop
+: 1578982002:0;nvim Colors.txt
+: 1579124196:0;git add .
+: 1579124202:0;git commit -m "removed unused cog css"
+: 1579124213:0;git add .
+: 1579124214:0;git commit -m "removed unused cog css"
+: 1579136638:0;nvim Colors.txt
+: 1579137719:0;git add .
+: 1579137726:0;git commit -m "Changed color theme"
+: 1579137945:0;git add .
+: 1579137953:0;git commit -m "consistent coloring in navbar"
+: 1579137982:0;git add .
+: 1579137986:0;git commit -m "removed filters"
+: 1579138325:0;git branch
+: 1579138356:0;git branch -b blogpage/useful_layout
+: 1579138361:0;git status
+: 1579138363:0;git push
+: 1579138368:0;git branch -b blogpage/useful_layout
+: 1579138381:0;git checkout -b blogpage/useful_layout
+: 1579217868:0;git status
+: 1579218326:0;git add .
+: 1579218350:0;git commit -m "Code cleanup: removed filters, moved css to its relevant file"
+: 1579222181:0;git commit -m "Fixed long-term warning on unused import that was actually used"
+: 1579308171:0;git add .
+: 1579308218:0;git commit -m "Layout resizes using media queries now, removed featured images because they do not resize well, might reimplement at another time"
+: 1579308494:0;git add .
+: 1579308509:0;git commit -m "Logo is now a link to the homepage, useful for mobile viewers"
+: 1579309119:0;git add .
+: 1579309151:0;git commit -m "On mobile view the light switch now takes full width of the screen just to match the behavior of the links above it"
+: 1579387758:0;git status
+: 1579387762:0;git push
+: 1579387776:0;git push --set-upstream origin blogpage/useful_layout
+: 1579557486:0;git status
+: 1579559977:0;git add .
+: 1579560008:0;git commit -m "Links now inline, removed leftover css for cog animations"
+: 1579563740:0;git commit -m "Edited colors of blue text on grey and white and black text on grey and white, removed leftover cogs css"
+: 1579563838:0;git commit -m "refactored css classnames and removed unused classNames"
+: 1579563890:0;git commit -m "removed bg-light from className which was overwriting the background-color property in css"
+: 1579563908:0;git commit -m "colors now match those that are in header"
+: 1579563929:0;git commit -m "colors now match those of the rest of the navbar and the footer"
+: 1579564662:0;git add 
+: 1579564664:0;git add .
+: 1579564688:0;git commit -m "removed terrible styling for an email link"
+: 1579565329:0;git commit -m "blog post links should underline"
+: 1579565573:0;git add .
+: 1579565586:0;git commit -m "added missing semicolon..."
+: 1579565760:0;git add .
+: 1579565773:0;git commit -m "another missisng semicolon\
+"
+: 1579566447:0;git add .
+: 1579566467:0;git commit -m "added simplistic styling to categories"
+: 1579566521:0;git push
+: 1579584070:0;git add .
+: 1579584083:0;git commit -m "looks better with larger padding in my opinion"
+: 1579584084:0;git push
+: 1579647694:0;npm start
+: 1579647728:0;git push
+: 1579647787:0;git checkout master
+: 1579647831:0;git pull
+: 1579726719:0;git add .
+: 1579726725:0;git commit -m "removed filters"
+: 1579726751:0;gcloud app deploy
+: 1579728111:0;gcloud components update
+: 1579728879:0;git add .
+: 1579728895:0;git commit -m "fixed error from missing key props in li"
+: 1579736018:0;git add .
+: 1579736020:0;git stash
+: 1579736799:0;git add .
+: 1579736804:0;git commit -m "Footer is now sticky"
+: 1579826961:0;git status
+: 1579826965:0;git push
+: 1579826974:0;gcloud app deploy
+: 1579827524:0;git add .
+: 1579827531:0;git commit -m "Trying to enforce https"
+: 1579827678:0;git status
+: 1579827683:0;git push
+: 1579827691:0;gcloud app deploy
+: 1579847376:0;npm i serve
+: 1579847438:0;git add .
+: 1579847483:0;git commit -m "added serve as dependency"
+: 1579847490:0;gcloud app deploy
+: 1579892551:0;git status
+: 1579892555:0;git log
+: 1579892775:0;npm uninstall serve
+: 1579892805:0;git status
+: 1579892807:0;git add .
+: 1579892815:0;git commit -m "removed serve dependency"
+: 1579892821:0;git push
+: 1579892828:0;gcloud app deploy
+: 1579893478:0;git add .
+: 1579893491:0;git commit -m "changed homepage to correct url for gcp"
+: 1579893494:0;git push
+: 1579893513:0;npm run build
+: 1579893571:0;gcloud app deploy
+: 1579894197:0;npm uninstall gh-pages
+: 1579894228:0;git add 
+: 1579894231:0;git add .
+: 1579894242:0;git commit -m "removed github pages dependency"
+: 1579897745:0;npm install -g serve
+: 1579897792:0;git add .
+: 1579897817:0;git commit -m "added serve again, edited package.json with new commands, and app.yaml now deploys index.html as a static webpage"
+: 1579897822:0;git push
+: 1579897835:0;gcloud app deploy
+: 1579898460:0;git add .
+: 1579898467:0;git commit -m "https now works"
+: 1579898469:0;git push
+: 1579998562:0;ls -a
+: 1579998576:0;nvim .zshrc
+: 1580064495:0;fc
+: 1580064503:0;nvim .zshrc
+: 1580064866:0;ls -i
+: 1580064906:0;cd ~
+: 1580064908:0;ls -a
+: 1580064916:0;cd ..
+: 1580064917:0;ls
+: 1580064946:0;cd ~
+: 1580064956:0;cd /usr
+: 1580064957:0;ls
+: 1580064959:0;cd ..
+: 1580064960:0;ls
+: 1580065003:0;cd /usr/lib/zsh/5.3/zsh/
+: 1580065005:0;ls
+: 1580065011:0;ls -a
+: 1580065041:0;nvim zle.so
+: 1580065237:0;$ZSH_VERSION
+: 1580065244:0;echo $ZSH_VERSION
+: 1580065250:0;cd ..
+: 1580065251:0;;s
+: 1580065252:0;ls
+: 1580065252:0;cd ..
+: 1580065709:0;echo $EDITOR
+: 1580065724:0;echo $VISUAL
+: 1580066186:0;man zshle
+: 1580066189:0;man zsh
+: 1580076191:0;cd ~
+: 1580077648:0;git 
+: 1580077661:0;docker ps
+: 1580078272:0;ls -a
+: 1580078285:0;ls -a | grep .*
+: 1580078289:0;ls -a | grep .
+: 1580078316:0;ls -a 
+: 1580078325:0;ls -a | grep ^.
+: 1580078351:0;ls -a | grep "^."
+: 1580078442:0;ls -A | grep "^/."
+: 1580078466:0;ls -a | grep "^\."
+: 1580082776:0;cd Dev
+: 1580082777:0;ls
+: 1580082783:0;mkdir history-plotter
+: 1580082785:0;cd history-plotter
+: 1580082788:0;git init
+: 1580082796:0;nvim main.py
+: 1580082815:0;git add .
+: 1580082829:0;nvim .README
+: 1580082862:0;git add .
+: 1580082866:0;git commit -m "init commit"
+: 1580082868:0;git push
+: 1580099462:0;git remote add history-plotter 'git:github.com/redskyharbor/history-plotter"\
+'
+: 1580099475:0;git push history-plotter
+: 1580099489:0;git push --set-upstream history-plotter master
+: 1580099579:0;git remote add history-plotter 'git@github.com:redskyharbor/history-plotter.git'
+: 1580099584:0;git push
+: 1580099600:0;git push historyplotter
+: 1580099604:0;git push histor-yplotter
+: 1580099608:0;git push history-plotter
+: 1580099621:0;sudo     git push --set-upstream history-plotter master
+: 1580099925:0;git push -u history-plotter history-plotter
+: 1580099932:0;git status
+: 1580099936:0;git push
+: 1580099950:0;cd ..
+: 1580099952:0;ls
+: 1580099956:0;rm history-plotter
+: 1580099960:0;rm -f history-plotter
+: 1580100054:0;mkdir history-plotter
+: 1580100057:0;cd history-plotter
+: 1580100059:0;git init
+: 1580100068:0;git add README.md
+: 1580100114:0;cd ..
+: 1580100117:0;cd ~
+: 1580100118:0;ls
+: 1580100120:0;cd Dev
+: 1580100132:0;mkdir history-plotter
+: 1580100135:0;cd history-plotter
+: 1580100141:0;git clone https://github.com/RedSkyHarbor/history-plotter.git
+: 1580100175:0;nvim main.py
+: 1580100198:0;git add .
+: 1580100364:0;git clone git@github.com:RedSkyHarbor/history-plotter.git
+: 1580100369:0;git add .
+: 1580100388:0;git pull
+: 1580100405:0;cd ~
+: 1580100406:0;ls
+: 1580100407:0;cd Dev.
+: 1580100409:0;cd Dev
+: 1580100410:0;ls
+: 1580100441:0;mkdir history-plotter
+: 1580100445:0;echo "# history-plotter" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git remote add origin git@github.com:RedSkyHarbor/history-plotter.git\
+git push -u origin master\
+
+: 1580100467:0;echo "# history-plotter" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git remote add origin https://github.com/RedSkyHarbor/history-plotter.git\
+git push -u origin master\
+
+: 1580100497:0;cd ~
+: 1580100504:0;mkdir hist-plot
+: 1580100512:0;echo "# history-plotter" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git remote add origin https://github.com/RedSkyHarbor/history-plotter.git\
+git push -u origin master\
+
+: 1580100591:0;python3
+: 1580100601:0;python3 -v
+: 1580100613:0;python3 --v
+: 1580165167:0;ls
+: 1580165172:0;ls -a
+: 1580165186:0;git status
+: 1580165389:0;cd ~
+: 1580165395:0;cd Dev
+: 1580165400:0;cd hist-plot
+: 1580165404:0;git status
+: 1580165412:0;nvim .gitignore
+: 1580165429:0;cd Dev/hist-plot
+: 1580165431:0;ls
+: 1580165434:0;git status
+: 1580165448:0;git add .
+: 1580165453:0;git commit -m "add gitignore"
+: 1580165456:0;git push
+: 1580167166:0;nvim main.py
+: 1580169679:0;cd ~
+: 1580169684:0;nvim .zsh_history
+: 1580178648:0;cd Dev/hist-plot
+: 1580178655:0;git status
+: 1580249084:0;cd Dev/\
+\
+\
+\
+
+: 1580249086:0;cd hist-plot
+: 1580249096:0;nvim main.py
+: 1580249101:0;cd Dev/hist-plot
+: 1580249102:0;ls -a
+: 1580249107:0;git status
+: 1580249130:0;git pull
+: 1580249140:0;nvim .zsh_history
+: 1580250292:0;git add .
+: 1580250297:0;git commit -m "Added argparse"
+: 1580250320:0;git push
+: 1580254914:0;python3 main.py
+: 1580255037:0;git add .
+: 1580255044:0;git commit -m "Fixed spelling mistake"
+: 1580255281:0;git add .
+: 1580255305:0;git commit -m "safely creates copy of .history file in local directory"
+: 1580335226:0;nvim .zsh_history
+: 1580335337:0;python3 main.py
+: 1580336107:0;cd Dev/hist-plot
+: 1580336108:0;ls
+: 1580336111:0;ls -a
+: 1580336114:0;ls -a1
+: 1580336125:0;python3 main.py
+: 1580336129:0;ls -a1
+: 1580336152:0;python3 main.py
+: 1580336154:0;ls -a1
+: 1580336187:0;python3 main.py
