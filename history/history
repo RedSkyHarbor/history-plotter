@@ -737,3 +737,98 @@ git push -u origin master\
 : 1580336152:0;python3 main.py
 : 1580336154:0;ls -a1
 : 1580336187:0;python3 main.py
+: 1580336189:0;ls -a1
+: 1580336194:0;ls history
+: 1580336277:0;git add .
+: 1580336287:0;git log
+: 1580336304:0;git commit -m "Same as last commit but actually working"
+: 1580336581:0;git push
+: 1580336591:0;git status
+: 1580417099:0;ls history
+: 1580417135:0;python3 main.py
+: 1580418416:0;python3 main.py --help
+: 1580418502:0;python3 main.py
+: 1580418661:0;cd ~
+: 1580418662:0;ls
+: 1580418664:0;ls -a1
+: 1580418877:0;nvim .viminfo
+: 1580418917:0;source .vim
+: 1580418924:0;source ~/.vim
+: 1580419201:0;cd .config 
+: 1580419202:0;ls
+: 1580419208:0;nvim
+: 1580419408:0;cd ~
+: 1580419413:0;cd .config
+: 1580419414:0;ls
+: 1580419426:0;mkdir nvim
+: 1580419427:0;ls
+: 1580419428:0;cd nvim
+: 1580419436:0;nvim init.vim
+: 1580419466:0;nvim .nvimrc
+: 1580419561:0;echo $VIM
+: 1580419913:0;echo $VIMRUNTIME
+: 1580419921:0;echo $BALLSACK
+: 1580420028:0;ls
+: 1580420031:0;cd nvim
+: 1580420032:0;ls
+: 1580420039:0;ls -a
+: 1580420046:0;nvim .nvimrc
+: 1580420064:0;cd ..
+: 1580420065:0;ls
+: 1580420073:0;mkdir vim
+: 1580420076:0;ls nvim
+: 1580420079:0;ls -a nvim
+: 1580420086:0;cd vim
+: 1580420098:0;nvim .vimrc
+: 1580420102:0;cd ..
+: 1580420106:0;cd nvim
+: 1580420124:0;nvim
+: 1580420157:0;nvim .nvimrc
+: 1580421135:0;cd ~/Dev/hist-plot 
+: 1580421140:0;nvim main.py
+: 1580421149:0;nvim .nvimrc
+: 1580421155:0;cd ..
+: 1580421158:0;cd vim
+: 1580421163:0;nvim .vimrc
+: 1580421174:0;nvim main.py
+: 1580421244:0;cd ..
+: 1580421252:0;cd nvim
+: 1580421378:0;nvim main.py
+: 1580421445:0;cd ~
+: 1580421451:0;$ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim\
+
+: 1580421459:0;git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim\
+
+: 1580421499:0;ls -a1
+: 1580421643:0;cd Dev/hist-plot
+: 1580421647:0;nvim main.py
+: 1580422018:0;cd ~
+: 1580422039:0;brew install cmake macvim
+: 1580422437:0;cd ~/.vim/bundle/YouCompleteMe\
+
+: 1580422489:0;nvim
+: 1580422538:0;cd ~/.vim/bundle/YouCompleteMe\
+
+: 1580422710:0;./install.py --clang-completer\
+
+: 1580423198:0;cd ~/Dev/hist-plot
+: 1580423210:0;nvim main.py
+: 1580423386:0;pip3 install --user neovim
+: 1580423890:0;nvim main.py
+: 1580424077:0;cd Dev/hist-plot
+: 1580424079:0;nvim main.py
+: 1580424235:0;nvim
+: 1580424247:0;nvim main.py
+: 1580424286:0;cd Dev/hist-plot
+: 1580424289:0;nvim main.py
+: 1580424406:0;pip install powerline-status
+: 1580424415:0;pip3 install powerline-status
+: 1580424472:0;nvim main.py
+: 1580424507:0;nvom
+: 1580424509:0;nvim
+: 1580424524:0;nvim main.py
+: 1580424814:0;nvim main.py\
+: 1580424819:0;nvim main.py
+: 1580424841:0;cd Dev/hist-plot
+: 1580424848:0;nvim .zsh_history
+: 1580424856:0;python3 main.py
