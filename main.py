@@ -1,16 +1,14 @@
 import argparse
 import shutil
 import os
+import pandas as pd
 
 def main(args):
     shutil.copyfile(args.hist_file, os.path.join(args.hist_dir, 'history'))
-    # TODO Open and parse data from history file
-    with open("./history/history", "r") as f:
-        history = f.readlines()
+    history = pd.read_csv('./history/history', sep="\n", names=['raw_history'], header=None)
+    history[['timestamp','command']] = history['raw_history'].str.split(';', 1, expand=True)
+    print(history)
 
-    for line in history:
-        print(line)
-        break
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -30,6 +28,4 @@ if __name__ == "__main__":
     mkdir(args.plot_dir)
 
     main(args)
-
-
 
