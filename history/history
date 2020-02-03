@@ -832,3 +832,49 @@ git push -u origin master\
 : 1580424841:0;cd Dev/hist-plot
 : 1580424848:0;nvim .zsh_history
 : 1580424856:0;python3 main.py
+: 1580425321:0;git add .
+: 1580425338:0;git commit -m "reads history file into list"
+: 1580427072:0;python3 main.py
+: 1580427077:0;pip3 install pandas
+: 1580427097:0;python3 main.py
+: 1580427327:0;nvim ~/.config/nvim/init.vim
+: 1580427341:0;cd ~/Dev/hist-plot
+: 1580427344:0;nvim main.py
+: 1580427361:0;python3 main.py
+: 1580503711:0;git log
+: 1580503724:0;git status
+: 1580503731:0;git add main.py
+: 1580503752:0;git commit -m "Now reads into a pandas dataframe"
+: 1580503756:0;nvim .gitignore
+: 1580503768:0;cd Dev/hist-plot
+: 1580503771:0;ls -a1
+: 1580503797:0;git status
+: 1580503806:0;nvim .gitignore
+: 1580503817:0;git status
+: 1580503886:0;nvim .gitignore
+: 1580503892:0;git status
+: 1580503906:0;git push
+: 1580503911:0;git status
+: 1580503925:0;python3 main.py
+: 1580504977:0;nvim .zsh_history
+: 1580602718:0;python3 main.py
+: 1580604923:0;ls
+: 1580604969:0;python3 main.py'
+: 1580604975:0;python3 main.py
+: 1580761135:0;cd De
+: 1580761140:0;cd Dev/hist-plot
+: 1580761142:0;nvim main.py
+: 1580761156:0;nvim .zsh_history
+: 1580761163:0;cd Dev/hist-plot
+: 1580761840:0;nvim ~/.zshrc
+: 1580762650:0;cd Dev/hist-plot
+: 1580762662:0;cd ~/Dev/hist-plot
+: 1580762669:0;python3 main.py
+: 1580763311:0;pip3 install matplotlib
+: 1580763396:0;python3 main.py
+: 1580763401:0;ls
+: 1580763571:0;python3 main.py
+: 1580763577:0;cd history
+: 1580763577:0;ls
+: 1580763719:0;cd ..
+: 1580763724:0;python3 main.py
