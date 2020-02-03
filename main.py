@@ -14,7 +14,7 @@ def main(args):
 def plotMostCommonCommands(df, n):
     mostCommon = df['command'].value_counts()[:n]
     barplt = mostCommon.plot.barh(y='command', x='occurence')
-    barplt.figure.savefig(f'./{args.plot_dir}/most_common.pdf', bbox_inches='tight')
+    barplt.figure.savefig(f'./{args.plot_dir}/most_common.png', bbox_inches='tight')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
