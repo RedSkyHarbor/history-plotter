@@ -1,6 +1,8 @@
 # history-plotter
 Plots your ~/.zsh_history file to see what 10 commands you use the most.
 
+![Example](https://cdn.buttercms.com/rlJ9ZvYLR5GOPd55xP5W)
+
 ## Getting Started
 Issue the following to see command line options
 ```
